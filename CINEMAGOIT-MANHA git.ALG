@@ -6,13 +6,13 @@ Var
    base: vetor[1..20, 1..20] de Caractere
    Posicao,lin,col,QuantosBilhetes:inteiro
    cliente,codcliente,teste,reserva,continua: caractere
-   ValorBilhete:real
+   ValorBilhete, testeGit:real
 
 procedimento cabecalho()
 inicio
    limpatela
    Escreval("======================================")
-   Escreval("|        Cinema   Go-It              |")
+   Escreval("|        Cinema   Instituto Go-It    |")
    Escreval("======================================")
 fimprocedimento
 
