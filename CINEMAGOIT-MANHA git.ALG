@@ -16,6 +16,11 @@ inicio
    Escreval("======================================")
 fimprocedimento
 
+procedimento tesetGit()
+inicio
+   escreval(testeGit)
+fimprocedimento
+
 procedimento Pedircadeiras()
 inicio
    cabecalho()
